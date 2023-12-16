@@ -1,0 +1,22 @@
+/* delete-task.component.css */
+div {
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #d32f2f;
+  }
+  

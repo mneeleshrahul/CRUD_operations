@@ -1,0 +1,20 @@
+/* task-list.component.css */
+div {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  div > div {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  

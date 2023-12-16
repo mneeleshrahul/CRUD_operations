@@ -1,0 +1,10 @@
+<!-- task-list.component.html -->
+<div>
+    <h2>Task List</h2>
+    <div *ngFor="let task of tasks">
+      <h3>{{ task.title }}</h3>
+      <p>{{ task.description }}</p>
+      <p>Due Date: {{ task.dueDate | date }}</p>
+    </div>
+  </div>
+  
